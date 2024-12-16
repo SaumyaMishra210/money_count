@@ -1,6 +1,3 @@
-# incomplete
-
-
 import cv2
 import cvzone
 import numpy as np
